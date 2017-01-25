@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;VerificadorDeOrden.java&apos; to &apos;Ordenamiento/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Arrays&apos;&#x0D;&#x0A;- Destination element: &apos;Ordenamiento/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;VerificadorDeOrden.java&apos;" description="Copy compilation unit" destination="=Ordenamiento/&lt;" element1="/&lt;{VerificadorDeOrden.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1478115694517" units="1" version="1.0"/>
+</session>

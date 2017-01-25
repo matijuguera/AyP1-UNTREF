@@ -1,0 +1,5 @@
+1478484830474	Extract method 'getCuadrada'
+1478484851284	Extract method 'setMatrizTranspuesta'
+1478484871034	Extract method 'CompareMatrices'
+1478485507234	Rename type 'esCuadradaSimetricaTestTest'
+1478746456839	Delete element
